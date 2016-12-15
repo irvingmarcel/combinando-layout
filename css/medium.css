@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 100%;
+}
+
+.light_blue, .green{
+  width: 50%;
+}
+
+.red {
+  width: 33.333%;
+}
+
+.orange {
+  width: 66.666%;
+}
